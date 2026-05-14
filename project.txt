@@ -1,1 +1,12 @@
-Explanation about Code Review
+##code review
+A code review is the process where one or more developers examine  
+someone else’s code before it’s merged into the main project.  
+The goal isn’t just to catch bugs—it’s to improve overall code  
+quality, maintainability, and team knowledge.  
+
+Why code review matters:  
+It catches bugs early, before they reach production  
+It improves code quality by enforcing best practices  
+It spreads knowledge across the team (others learn from your code, and you learn from feedback)  
+It maintains consistency in style and architecture  
+It reduces technical debt over time  
